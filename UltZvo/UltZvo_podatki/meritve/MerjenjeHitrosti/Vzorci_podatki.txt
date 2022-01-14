@@ -1,0 +1,12 @@
+Vzorci so valjaste oblike:
+
+  premer: 40.1 +- 0.1 mm
+  visina: 25.0 +- 0.1 mm
+
+Pricakovani materiali in njihova masa:
+
+  Aluminij : m = 90 +- 1g
+  Jeklo : m = 247 +- 1g
+  Medenina : m = 266 +- 1g
+
+pri T = 22.9 C

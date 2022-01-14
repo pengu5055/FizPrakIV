@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Boltz/.idea/Boltz.iml" filepath="$PROJECT_DIR$/../Boltz/.idea/Boltz.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Decode/.idea/Decode.iml" filepath="$USER_HOME$/Documents/Decode/.idea/Decode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DielTK/.idea/DielTK.iml" filepath="$PROJECT_DIR$/../DielTK/.idea/DielTK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Matematicna Fizika I/Doppler/.idea/Doppler.iml" filepath="$PROJECT_DIR$/../../Matematicna Fizika I/Doppler/.idea/Doppler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ElOpt/.idea/ElOpt.iml" filepath="$PROJECT_DIR$/../ElOpt/.idea/ElOpt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Fizikalni Praktikum III/.idea/Fizikalni Praktikum III.iml" filepath="$PROJECT_DIR$/../../Fizikalni Praktikum III/.idea/Fizikalni Praktikum III.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Milik.iml" filepath="$PROJECT_DIR$/.idea/Milik.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SevCT/.idea/SevCT.iml" filepath="$PROJECT_DIR$/../SevCT/.idea/SevCT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SklNih/.idea/SklNih.iml" filepath="$PROJECT_DIR$/../SklNih/.idea/SklNih.iml" />
+    </modules>
+  </component>
+</project>

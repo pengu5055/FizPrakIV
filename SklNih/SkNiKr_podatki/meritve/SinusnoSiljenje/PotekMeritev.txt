@@ -1,0 +1,27 @@
+Meritve so bile opravljene s funkcijskim generatorjem Iskra M3733. Izkazalo se
+je, da le ta nezanesljivo dela okoli 68kHz. Podatki so bili odbirani iz
+osciloskopa Tektronix TDS 2012B preko funkcije Measure. Meritve so v datoteki:
+U1_C0=0.ods
+
+Meritve so bile opravljene s funkcijskim generatorjem GwInstek SFG-2120. Namesto
+amplitude napetosti U2 smo merili rms  U2 in to s pomocjo Keithley 2000 Multimetrom.
+Meritve so v datotekah:
+
+'U2_C0=1150.txt'
+'U2_C0=1150_zoom.txt'
+'U2_C0=150.txt'
+'U2_C0=150_zoom.txt'
+'U2_C0=330.txt'
+'U2_C0=330_zoom.txt'
+'U2_C0=560.txt'
+'U2_C0=560_zoom.txt'
+'U2_C0=820.txt'
+'U2_C0=820_zoom.txt'
+
+Posnetek kanalov Ch1 (U1) in CH2 (U2) v primeru C0=0pF v resonanci:
+'Res1_C0=0'
+
+Posnetek kanalov Ch1 (U1) in CH2 (U2) v primeru C0=1150pF v obeh resonancah:
+
+'Res1_C0=1150'
+'Res2_C0=1150'
